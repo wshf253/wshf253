@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-added document
 <!--
 **wshf253/wshf253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
